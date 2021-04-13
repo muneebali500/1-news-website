@@ -2,11 +2,11 @@
   "name": "1-news-website",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js -e ejs,css,js"
+    "start": "node index.js",
+    "dev": "nodemon index.js -e ejs,css,js"
   },
   "keywords": [],
   "author": "",
